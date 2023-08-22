@@ -1,5 +1,5 @@
 /* Styles for dialog window */
-#small-dialog,#small-dialog1,#small-dialog2{
+#small-dialog,#about-dialog,#timeline-dialog,#blog-dialog,#project-dialog{
 	padding: 0;
 	text-align: left;
 	max-width: 600px;
