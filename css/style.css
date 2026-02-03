@@ -63,6 +63,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
     background-color: #ffffff; /* White background for second logo */
 }
 
+.companies-logos .company-logo:nth-child(3) {
+    background-color: #ffffff; /* White background for second logo */
+}
+
 .company-logo img {
     max-width: 100%;
     max-height: 100%;
